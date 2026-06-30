@@ -1,0 +1,4 @@
+.text-italic {
+    font-family: var(--font-secondary);
+    font-style: italic;
+}

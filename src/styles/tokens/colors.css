@@ -1,0 +1,115 @@
+:root {
+
+  /* ========= Violet ========= */
+
+  --violet-100: #e8d6ff;
+  --violet-200: #d7b8ff;
+  --violet-300: #c79aff;
+  --violet-400: #b488eb;
+  --violet-500: #9b72ce;
+  --violet-600: #825db1;
+  --violet-700: #6b4a94;
+  --violet-800: #543976;
+  --violet-900: #3e2859;
+
+  /* ========= Pink ========= */
+
+  --pink-50: #fff3ff;
+  --pink-100: #fed5ff;
+  --pink-200: #f7aef8;
+  --pink-300: #de98de;
+  --pink-400: #c482c5;
+  --pink-500: #ab6eab;
+  --pink-600: #915b92;
+  --pink-700: #784879;
+  --pink-800: #5e375f;
+  --pink-900: #452746;
+
+  /* ========= Blue ========= */
+
+  --blue-100: #cfd7ff;
+  --blue-200: #a8b7fb;
+  --blue-300: #8094f2;
+  --blue-400: #6b7dd5;
+  --blue-500: #5768b8;
+  --blue-600: #45549b;
+  --blue-700: #34417d;
+  --blue-800: #263060;
+  --blue-900: #182043;
+
+  /* ========= Cyan ========= */
+
+  --cyan-100: #c8f4ff;
+  --cyan-200: #9fedff;
+  --cyan-300: #72def7;
+  --cyan-400: #5ec3da;
+  --cyan-500: #4ba7bd;
+  --cyan-600: #3b8da0;
+  --cyan-700: #2c7282;
+  --cyan-800: #1f5865;
+  --cyan-900: #143e48;
+
+  /* ========= Green ========= */
+
+  --green-100: #e2ffdc;
+  --green-200: #caffbf;
+  --green-300: #b2e5a7;
+  --green-400: #9bcc91;
+  --green-500: #85b27b;
+  --green-600: #6f9966;
+  --green-700: #5a8053;
+  --green-800: #476640;
+  --green-900: #344d2f;
+
+  /* ========= Rose ========= */
+
+  --rose-100: #ffd2d2;
+  --rose-200: #ffaead;
+  --rose-300: #e59897;
+  --rose-400: #cc8382;
+  --rose-500: #b26f6e;
+  --rose-600: #995c5c;
+  --rose-700: #804a4a;
+  --rose-800: #663a39;
+  --rose-900: #4d2a29;
+
+  /* ========= Yellow ========= */
+
+  --yellow-100: #ffe8cd;
+  --yellow-200: #ffd6a5;
+  --yellow-300: #e5bf90;
+  --yellow-400: #cca77c;
+  --yellow-500: #b29169;
+  --yellow-600: #997b57;
+  --yellow-700: #806546;
+  --yellow-800: #665036;
+  --yellow-900: #4d3b27;
+
+  /* ========= Gray ========= */
+
+  --gray-100: #ebebe4;
+  --gray-200: #d6d6cd;
+  --gray-300: #c2c2b6;
+  --gray-400: #adada0;
+  --gray-500: #99998b;
+  --gray-600: #858576;
+  --gray-700: #707062;
+  --gray-800: #5c5c4f;
+  --gray-900: #47473c;
+
+  /* ========= Gradient ========= */
+
+  --gradient-primary:
+    linear-gradient(90deg, #fe85ea 0%, #5102a0 100%);
+  --gradient-cyan:
+    linear-gradient(90deg, #e9a8ff 0%, #0ff5e5 100%);
+  --gradient-blue:
+    linear-gradient(90deg, #f777b9 0%, #5b61f9 100%);
+  --gradient-soft:
+    linear-gradient(90deg, #fad89e 0%, #f29bfd 100%);
+  --gradient-violet:
+    linear-gradient(90deg, #fcbfd5 0%, #8d75fa 100%);
+  --gradient-sunset:
+    linear-gradient(90deg, #ff99b9 0%, #fff08f 100%);
+
+}

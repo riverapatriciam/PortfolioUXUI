@@ -1,0 +1,10 @@
+:root {
+    --fs-small: 14px;
+    --fs-body-sm: 16px;
+    --fs-body: 18px;
+    --fs-subtitle: 24px;
+    --fs-title: 32px;
+    --fs-h3: 44px;
+    --fs-h2: 48px;
+    --fs-h1: 52px;
+}
